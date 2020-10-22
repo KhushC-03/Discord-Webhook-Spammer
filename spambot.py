@@ -18,7 +18,7 @@ def main():
     I1 = input('How many times would you like to spam? ')
     for i in range(int(I1)):
         url = (wh)
-        webhook = DiscordWebhook(url=url, content=IO)
+        webhook = DiscordWebhook(url=url, content=I0)
         response = webhook.execute()
     main()
 main()
