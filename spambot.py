@@ -1,4 +1,4 @@
-import os, random, requests, time, sys, json, subprocess, fileinput, threading, datetime, unittest, keyboard, certifi, urllib3, re, rsa, hmac, hashlib, base64
+import os, random, time, sys, json
 from discord_webhook import DiscordWebhook, DiscordEmbed
 from discord_webhook import DiscordWebhook
 os.system('cls')
